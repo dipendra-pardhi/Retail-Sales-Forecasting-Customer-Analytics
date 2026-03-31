@@ -1,0 +1,201 @@
+﻿CustomerID,FirstName,LastName,Gender,BirthDate,City,JoinDate
+C001,Michael,Davis,Male,1996-09-11,Osborneport,2022-09-25
+C002,Michael,Miller,Male,1959-08-18,New Gabrielleport,2020-11-03
+C003,Carol,Hays,Female,2005-04-19,Port Allen,2024-02-12
+C004,Joseph,Ward,Male,1992-06-16,East Edgarborough,2024-09-09
+C005,Jamie,Salinas,Male,1992-06-18,Port Kimberly,2022-02-24
+C006,Danny,Moore,Male,1986-10-03,Costaberg,2022-07-09
+C007,Erin,Walker,Male,1985-01-11,West Jasmine,2021-10-13
+C008,Isaiah,Williams,Male,1960-11-13,New Michaelland,2025-03-04
+C009,Richard,Pacheco,Female,2004-08-15,West Lisaville,2025-04-17
+C010,Catherine,Rice,Male,1976-12-12,West Carol,2025-07-23
+C011,Haley,Williams,Male,1997-03-03,Leburgh,2023-05-12
+C012,Dale,Perry,Male,1989-12-08,Lake Dawn,2021-07-16
+C013,Robert,Anderson,Male,1955-01-28,Jillianhaven,2023-03-22
+C014,Brittany,Green,Male,1974-06-25,East Samantha,2021-11-09
+C015,Matthew,Molina,Male,1993-12-12,Quinnville,2022-11-27
+C016,Miguel,Johnson,Male,1976-04-27,Murrayborough,2022-02-21
+C017,Vanessa,Anderson,Female,1982-03-11,Peterside,2024-09-25
+C018,Breanna,Davis,Male,1994-08-19,East William,2024-11-12
+C019,John,Smith,Female,1998-05-16,Stephaniechester,2023-05-17
+C020,Ryan,Cole,Female,1982-06-26,Travisstad,2024-04-19
+C021,Debbie,Martin,Male,1993-11-17,Meganmouth,2022-01-22
+C022,Megan,Velasquez,Male,1955-11-16,East James,2020-10-02
+C023,Mark,Martinez,Female,1972-05-09,New Christophermouth,2020-10-19
+C024,Molly,Murray,Female,1961-11-25,North April,2023-04-20
+C025,Cheryl,Gilbert,Female,1971-03-12,Bradyshire,2022-01-14
+C026,Justin,Macdonald,Male,2004-01-04,Shepherdburgh,2024-09-03
+C027,Jacqueline,Martin,Male,1959-02-05,Robertmouth,2023-08-30
+C028,John,Carr,Female,1960-02-10,New David,2022-12-16
+C029,Tyler,Levine,Male,1978-05-20,West Charles,2021-08-30
+C030,Lacey,Hall,Male,2002-06-10,Thomashaven,2022-08-27
+C031,Ashley,Gibson,Female,2003-03-14,East Carrieberg,2025-08-26
+C032,Valerie,Macdonald,Male,1992-11-09,East Shelby,2021-01-12
+C033,Jenny,Beck,Female,1978-07-27,Lake Cody,2025-03-17
+C034,Kari,Miller,Female,1964-12-19,East Mary,2025-01-13
+C035,Kimberly,King,Female,1991-04-19,North George,2023-03-22
+C036,Michael,Cervantes,Male,1991-11-04,Ashleyview,2020-09-30
+C037,Miranda,Nelson,Female,1982-08-30,West Melissahaven,2024-01-31
+C038,Tracey,Davis,Male,1974-04-19,Wilsonbury,2021-05-10
+C039,Nancy,Savage,Female,1996-11-02,Port Sandra,2022-10-17
+C040,Scott,Powell,Male,1974-11-06,Port Miguel,2022-07-12
+C041,Melissa,Rodgers,Female,1980-07-03,North Sharontown,2023-01-24
+C042,Anna,Andrews,Female,2000-02-08,North Teresashire,2021-11-09
+C043,Kenneth,Allen,Male,1988-09-14,North Jonathonhaven,2023-10-14
+C044,Parker,Sparks,Male,1961-02-14,Bryanside,2024-12-27
+C045,Kelly,Shaw,Male,1975-12-28,Zacharyfort,2023-10-09
+C046,Dennis,Poole,Male,1964-01-21,New Jontown,2022-06-25
+C047,Mary,Decker,Female,2006-07-03,Port Jessica,2025-02-25
+C048,Alexis,Crane,Male,2004-12-30,Newtonborough,2022-04-10
+C049,Antonio,Hamilton,Male,1997-01-03,Chambersview,2022-06-23
+C050,Kelly,Mcmillan,Male,1968-06-20,Erinland,2022-08-25
+C051,Madison,Sellers,Female,2004-12-19,Boyerstad,2024-02-25
+C052,Billy,Hernandez,Female,1991-09-11,Walkerfurt,2024-04-25
+C053,Felicia,Morgan,Female,1998-04-20,Lake Michaelshire,2024-04-07
+C054,Crystal,Johnson,Female,2002-11-10,New Kathleentown,2021-03-19
+C055,Deborah,Moody,Male,1976-07-09,Andersonville,2021-02-05
+C056,Carl,Wyatt,Female,2004-09-23,North Tracey,2021-06-19
+C057,Julie,Gibson,Female,1998-09-26,Williamsville,2023-03-26
+C058,Lawrence,Stewart,Male,2005-07-22,West Tinatown,2020-11-10
+C059,Scott,Wyatt,Female,1963-05-11,New Meagan,2024-09-27
+C060,Anthony,Conway,Male,1997-10-09,Carlyberg,2025-06-15
+C061,Heather,Russell,Male,1968-10-21,North Michellemouth,2021-02-01
+C062,Susan,Salinas,Male,2000-06-21,Turnerberg,2021-09-23
+C063,Michael,Johnson,Male,1973-01-07,West Amandashire,2023-05-29
+C064,Amanda,Hoover,Female,1973-09-01,Brittanyburgh,2024-09-26
+C065,Scott,Duke,Female,1969-12-10,Williamhaven,2024-01-21
+C066,Jason,Jenkins,Female,1985-09-14,New Randychester,2020-12-21
+C067,Daniel,Maldonado,Male,1973-09-07,Davisfurt,2021-03-11
+C068,Alexandra,Montoya,Female,1981-06-09,New Julia,2024-06-13
+C069,Gabriel,Daugherty,Male,1965-10-14,New Reginald,2023-01-11
+C070,Eric,Bryan,Male,1971-10-24,Taylorhaven,2021-03-04
+C071,Denise,Gutierrez,Male,1962-06-18,New Manuelville,2021-05-24
+C072,Eric,Watkins,Female,1995-06-06,Melissashire,2022-07-02
+C073,Carl,Armstrong,Female,1964-12-04,Port Angelabury,2022-02-09
+C074,Jesus,Singh,Female,1959-05-31,Port Michaelstad,2023-02-09
+C075,Seth,Moore,Male,1954-09-17,New John,2021-05-12
+C076,Phyllis,Durham,Male,2005-12-14,Nancyside,2022-05-07
+C077,Matthew,Juarez,Female,2002-12-24,North Meagan,2022-10-21
+C078,Jeanne,Young,Male,1988-09-25,Craigport,2025-01-14
+C079,Donald,Marsh,Female,1979-06-15,North Bradleyfurt,2024-07-06
+C080,Grace,Garcia,Female,2003-11-04,Markberg,2023-01-02
+C081,Sarah,Reynolds,Female,1988-07-20,South Christinabury,2022-09-22
+C082,Amy,Haley,Male,2003-05-11,Vasquezmouth,2024-06-29
+C083,Jeremy,Robles,Female,1981-03-29,West Josephport,2022-02-08
+C084,Amanda,Lee,Male,1972-03-19,Meyersstad,2024-09-04
+C085,Juan,Ramirez,Male,1979-03-23,New Michaelview,2023-10-11
+C086,Lawrence,Hunter,Female,1975-09-26,Port Stephanie,2023-07-26
+C087,Laurie,Mason,Female,1975-06-22,Berrymouth,2025-07-02
+C088,Brenda,Costa,Female,1997-10-11,North Christian,2022-09-12
+C089,William,Warner,Female,1969-07-12,Geoffreystad,2022-11-25
+C090,Carrie,Peterson,Male,1975-08-18,Fergusonview,2022-01-16
+C091,Brian,Fowler,Male,1963-02-04,Port Williamhaven,2021-08-23
+C092,Lindsey,Holder,Female,2001-11-28,Mendozaland,2023-12-17
+C093,Stanley,Brown,Male,1978-04-14,Baldwinstad,2022-02-25
+C094,Kimberly,Stokes,Male,1962-10-18,Seanland,2025-08-07
+C095,Kevin,Snyder,Male,1982-08-20,Seanville,2020-12-19
+C096,Eric,King,Male,1989-01-06,Lake Amanda,2021-10-27
+C097,Evelyn,Gray,Male,1994-08-14,Wardfort,2025-06-14
+C098,Lisa,Vega,Female,2005-01-09,East Colinmouth,2023-05-22
+C099,Kimberly,Jones,Male,1964-07-22,Hansonhaven,2021-01-17
+C100,Sean,Hart,Female,1954-09-28,North Jason,2024-11-06
+C101,William,Pope,Female,1956-05-29,North Gary,2024-09-08
+C102,Carolyn,Perez,Female,1996-06-20,South Briantown,2023-11-12
+C103,David,Burns,Female,1964-10-26,Joyceside,2021-06-04
+C104,Brenda,Dean,Male,1965-03-20,West Ann,2024-01-17
+C105,Kenneth,Berg,Male,1969-12-29,Morrisborough,2023-07-06
+C106,Kevin,Flores,Female,1987-04-23,Lake Ricardo,2025-02-06
+C107,Victoria,Hansen,Female,1995-10-08,Lake Dale,2023-07-17
+C108,Samantha,Hill,Male,1960-11-21,Georgetown,2022-06-08
+C109,Austin,Hogan,Female,2006-03-03,Port Fernandohaven,2021-07-29
+C110,Travis,Peters,Female,1966-01-05,South Ianhaven,2022-12-31
+C111,Dylan,Booker,Male,1993-07-13,Justintown,2022-01-12
+C112,Jeffrey,Smith,Female,1983-12-29,Aaronmouth,2023-03-21
+C113,Heidi,Wilson,Male,1977-05-23,Ramosbury,2022-12-31
+C114,Miranda,Rodriguez,Female,1980-07-04,Adkinsport,2025-08-23
+C115,Jose,Smith,Male,1960-02-25,Smithburgh,2023-11-12
+C116,Jamie,Webb,Male,1955-09-26,Zacharyberg,2025-07-31
+C117,Timothy,Beck,Female,1987-09-07,Lauraborough,2022-12-18
+C118,Gina,Bradford,Male,1975-08-27,Port William,2025-07-12
+C119,Jason,Lloyd,Male,1991-07-31,West Ralph,2025-03-31
+C120,Curtis,Faulkner,Female,1964-01-10,Annaborough,2020-10-18
+C121,John,Bell,Male,1967-02-28,Sarahhaven,2021-10-11
+C122,Amy,Smith,Male,1961-10-02,Simonstad,2024-06-24
+C123,Peter,Edwards,Female,1989-11-06,Cliffordbury,2022-06-06
+C124,Chad,Roberts,Female,1962-06-07,North Michelle,2021-02-10
+C125,Kimberly,Parker,Male,1990-04-03,Lake Christopher,2021-03-14
+C126,Monique,Johnson,Male,1980-04-04,West Paulfurt,2024-12-28
+C127,John,Allen,Female,1982-11-17,Kimland,2021-01-22
+C128,Robert,Collins,Female,1976-08-06,Anthonystad,2025-02-09
+C129,Gary,Taylor,Male,1958-10-08,New Michael,2024-12-10
+C130,Aaron,Bailey,Male,1982-02-03,Marcchester,2024-07-15
+C131,Denise,Jackson,Male,1996-10-18,Williamsport,2022-12-20
+C132,Jared,Ochoa,Male,1958-12-24,Cisnerosville,2023-04-19
+C133,Yvette,Roth,Male,1962-04-14,East Melissashire,2025-06-23
+C134,Emily,Hart,Female,1985-01-29,Angelaland,2025-05-22
+C135,Mario,Cuevas,Male,1986-03-07,North Charlesville,2023-09-03
+C136,Amanda,Garcia,Male,2007-06-27,Watsonview,2023-04-22
+C137,Gary,Lopez,Male,1984-08-05,Amandachester,2024-05-09
+C138,Breanna,Moore,Female,1961-09-28,Melissaberg,2021-05-10
+C139,Alexander,Mcfarland,Male,1960-03-21,Whiteside,2021-09-16
+C140,Stacy,Williams,Female,1973-06-12,Port Gail,2024-08-28
+C141,Adam,Lucas,Female,1978-08-06,Allisonmouth,2024-01-07
+C142,Suzanne,Fox,Male,2005-07-25,Joelborough,2020-12-27
+C143,Cynthia,Carlson,Male,1961-06-03,South Jameschester,2023-06-10
+C144,Betty,Johnson,Female,1963-09-02,North Lisa,2021-03-03
+C145,Paige,Osborne,Female,1959-11-07,Carlsonborough,2021-08-19
+C146,John,Johnson,Female,1997-03-26,North Jamesport,2022-08-31
+C147,Crystal,Garrison,Female,1967-02-03,New Jason,2023-05-20
+C148,John,Foster,Female,2005-07-08,Charlesmouth,2024-11-05
+C149,Melissa,Torres,Male,1978-01-24,North Kathryn,2025-05-02
+C150,Francis,Hernandez,Male,1971-06-17,Juliefurt,2022-10-07
+C151,Dawn,Fletcher,Male,2006-08-30,South Audrey,2022-01-26
+C152,Brittany,Green,Male,1987-06-17,Port Jeffreyside,2021-03-06
+C153,Nancy,Gordon,Female,1988-04-07,Port Alex,2023-02-05
+C154,Lisa,Martinez,Male,1971-09-02,East Codyton,2023-11-21
+C155,Jill,Mcconnell,Male,1965-09-20,Kevinshire,2024-03-23
+C156,George,Young,Male,1956-11-28,Lisatown,2024-01-04
+C157,Connie,Terry,Male,1965-12-16,Port Patriciaburgh,2022-12-22
+C158,Crystal,Aguirre,Male,1981-07-24,Dylanmouth,2023-09-15
+C159,Thomas,Chung,Male,1990-10-14,Joshuamouth,2022-01-26
+C160,Meagan,Macdonald,Male,1991-09-10,Port Jacob,2021-10-27
+C161,Michael,Perez,Male,1963-01-19,Shannontown,2023-01-31
+C162,Jill,Roach,Male,2000-08-30,Ellisside,2022-06-03
+C163,Erin,Rogers,Female,1985-10-08,Lake Lindsay,2025-08-20
+C164,Linda,Vasquez,Male,1968-07-28,North Rodney,2020-12-21
+C165,Tanya,Mueller,Male,1972-12-26,West Tanner,2023-12-05
+C166,Meagan,Ali,Female,2001-05-13,South Markbury,2023-07-10
+C167,Kimberly,Lin,Female,1989-12-06,Wilsonland,2022-05-28
+C168,Richard,Jones,Male,1969-07-30,Lake Steventown,2022-10-01
+C169,Travis,Watson,Male,1967-06-15,Christopherburgh,2021-12-23
+C170,Amber,Graham,Female,1984-05-05,Lake Melissaborough,2025-08-20
+C171,Christina,Dominguez,Male,1993-03-15,Robertsborough,2025-07-28
+C172,Michelle,Smith,Female,1977-03-14,New Fred,2025-06-21
+C173,Lisa,Ruiz,Female,1958-08-28,South Marcusberg,2025-08-22
+C174,Scott,Howell,Male,2005-07-07,South Jennifer,2025-08-28
+C175,Stacey,Thompson,Male,1998-01-07,Davidtown,2021-02-25
+C176,Peter,Garcia,Male,1979-10-07,West Amymouth,2021-07-22
+C177,Anthony,Gould,Female,1985-01-05,South James,2022-01-23
+C178,Mark,Mcdonald,Female,1960-12-05,East Paulburgh,2024-06-22
+C179,Dennis,Wallace,Female,1985-02-14,Bennettburgh,2025-08-19
+C180,Nichole,Calhoun,Female,1959-12-15,West Dakotaside,2022-10-19
+C181,Brittany,Oneal,Female,1972-11-28,Port Bryce,2024-12-12
+C182,Meghan,Wright,Male,2004-07-25,East Rodney,2021-04-16
+C183,Mary,Dawson,Male,1990-11-19,New Tiffanyberg,2021-08-27
+C184,Daniel,Mcintyre,Male,2003-04-13,West Katrina,2021-04-19
+C185,Joe,Vincent,Female,1975-07-04,North Chaseborough,2024-10-06
+C186,Vicki,Guzman,Female,1960-05-05,West Wandaland,2024-02-07
+C187,Cynthia,Cherry,Male,1989-01-14,Gomeztown,2023-11-01
+C188,Ryan,Flores,Male,1960-11-23,East Danielleshire,2023-05-19
+C189,Steve,Flynn,Male,1966-08-07,East Walter,2021-03-05
+C190,Daniel,Lawson,Male,1967-08-19,Conwayside,2023-04-10
+C191,Karen,Quinn,Female,1958-07-14,Kristinemouth,2022-06-11
+C192,James,Wilson,Male,2006-07-28,Franklinview,2023-09-26
+C193,Donald,Meza,Female,1969-11-06,North Kelly,2020-12-08
+C194,Ann,West,Male,2000-09-02,Craigshire,2022-08-05
+C195,James,Mitchell,Female,1976-08-23,East Raymond,2025-06-19
+C196,James,Noble,Female,1964-04-24,Woodbury,2025-02-19
+C197,Matthew,Dixon,Male,1957-09-23,Lake Emily,2020-11-18
+C198,Jessica,Mullins,Male,1986-01-23,Jessicaside,2022-12-10
+C199,Juan,Johnson,Female,1970-05-18,South Scottton,2021-07-28
+C200,Ronald,Haley,Male,2001-12-24,Jenniferbury,2025-06-24
