@@ -243,4 +243,3 @@ ORDER BY total_profit DESC;
 
 SELECT DISTINCT category FROM master_sales;
 
-
